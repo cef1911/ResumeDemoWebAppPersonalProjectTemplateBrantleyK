@@ -15,7 +15,9 @@ from PIL import Image
 This is inspired from the StreamLit.io site.
 See the website for more info https://streamlit.io/
 
-Click the link to view Brantley Kimpson Resume 
+Click the link to view Brantley Kimpson Resume
+
+https://acrobat.adobe.com/id/urn:aaid:sc:VA6C2:800bf297-852f-45a1-bf76-4680b6831e09
 
 
 """
