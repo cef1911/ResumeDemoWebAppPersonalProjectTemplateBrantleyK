@@ -1,7 +1,4 @@
 pandas
 streamlit
 numpy
-altair
-plotly
-figure_factory 
-time
+
